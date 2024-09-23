@@ -116,14 +116,19 @@
 <p>
 • <strong>LinkedIn </strong>
  <a href="https://www.linkedin.com/in/mansi-pande-483736253" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi pande" height="30" width="40" ></a></p>
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi pande" height="20" width="40" /></a></p>
 
 <p align="left">
 • <strong>GitHub </strong>
 <a href="https://github.com/pandeymansi" target="blank" rel="noreferrer">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="30" width="40" >
-</a></p><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="20" width="40"/>
+</a></p>
 
+<p align="left">
+• <strong>Mail </strong>
+ <a href="iampandeymansi@gmail.com" >📧
+   <!--<img  src="C:\Users\sai\Downloads\email.png" alt="pandeymansi" height="30" width="40"/>
+--> </a></p><br>
 <h2 align="left">Feedback Welcome</h2>
 <p>
 I am still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above.
