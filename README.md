@@ -66,18 +66,27 @@
    </a>
   </p><br>
 
-<p align="left"><strong>Interests:</strong> Problem-Solving, Analysis, User Experience research or Interface design principles
- </a></p>
+<p align="left"><strong>Interests:</strong> Problem-Solving, Analysis, User Experience Research & Interface Designing
+ </a></p><br>
 
+<h2 align="left">Connect with me</h2>
+<p>
+ <strong>LinkedIn </strong>
+ <a href="https://www.linkedin.com/in/mansi-pande-483736253" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi pande" height="30" width="40" ></a></p>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<p>LinkedIn: </p><a href="https://www.linkedin.com/in/mansi-pande-483736253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi pande" height="30" width="40" ></a>
-<p>GitHub: </p><a href="https://github.com/pandeymansi" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="30" width="40" ></a>
+<strong>GitHub </strong>
+<a href="https://github.com/pandeymansi" target="blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="30" width="40" >
+</a></p>
 
-<a href="https://www.leetcode.com/mansiprog6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" /></a>
-</p>
+<p align="left">
+<strong>LeetCode</strong>
+<a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
+</a></p>
+
 
 
 
