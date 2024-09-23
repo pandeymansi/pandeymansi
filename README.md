@@ -80,9 +80,9 @@
 
 <h2 align="left">Projects</h2>
 <p>
-• <strong>Password Generator:</strong> This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack.
-  [View Project](https://github.com/pandeymansi/Password_Generator)
-</p><br>
+• <strong>Password Generator:</strong> This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. 
+<a href="https://github.com/pandeymansi/Password_Generator">View Project</a>
+</p>
 
 <h2 align="left">Connect with Me</h2>
 <p>
