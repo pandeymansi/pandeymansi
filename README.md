@@ -93,7 +93,7 @@
 </a></p>
 
 <p align="left">
-•<strong>LeetCode</strong>
+• <strong>LeetCode</strong>
 <a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
 </a></p>
