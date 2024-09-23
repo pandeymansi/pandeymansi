@@ -126,7 +126,7 @@
 
 <p align="left">
 • <strong>Mail </strong>
- <a href="iampandeymansi@gmail.com" >📧
+ <a href="mailto:iampandeymansi@gmail.com" >📧
    <!--<img  src="C:\Users\sai\Downloads\email.png" alt="pandeymansi" height="30" width="40"/>
 --> </a></p><br>
 <h2 align="left">Feedback Welcome</h2>
