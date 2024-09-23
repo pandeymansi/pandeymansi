@@ -110,7 +110,7 @@
 <p>
 • <strong>Calculator:</strong> This calculator is a simple yet efficient command-line application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed for ease of use, it allows users to input expressions and get instant results.
   <a href="https://github.com/pandeymansi/Simple_Python_Calculator">View Project</a>
-</p>
+</p><br>
 
 <h2 align="left">Connect with Me</h2>
 <p>
