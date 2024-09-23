@@ -9,7 +9,7 @@
 <h2 align="left">Skills & Interests</h2>
 
 <p>
-  <strong>Programming Languages:</strong> C, Python, Java, HTML, CSS
+  • <strong>Programming Languages:</strong> C, Python, Java, HTML, CSS
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
@@ -28,14 +28,14 @@
 </p><br>
 
 <p align="left">
-  <strong>Database:</strong> MySQL
+  • <strong>Database:</strong> MySQL
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p><br>
 
 <p align="left">
-  <strong>Framework/Libraries:</strong> Bootstrap, NumPy, Pandas
+  • <strong>Framework/Libraries:</strong> Bootstrap, NumPy, Pandas
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
   </a>
@@ -48,7 +48,7 @@
 </p><br>
 
 <p align="left">
-  <strong>Developer Tools:</strong> GitHub, Anaconda, Figma, Canva, VSCode
+  • <strong>Developer Tools:</strong> GitHub, Anaconda, Figma, Canva, VSCode
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40"/> 
   </a>
@@ -66,28 +66,42 @@
    </a>
   </p><br>
 
-<p align="left"><strong>Interests:</strong> Problem-Solving, Analysis, User Experience Research & Interface Designing
+<p align="left">
+  • <strong>Data Structures & Algorithm:</strong> Structuring Information for efficiency
  </a></p><br>
 
-<h2 align="left">Connect with me</h2>
+ <p align="left">
+   • <strong>Academic Coursework:</strong> Data Structures, Operating System (Windows, Linux), CN, OOP, DBMS
+ </a></p><br>
+
+<p align="left">
+  • <strong>Interests:</strong> Problem-Solving, Analysis, User Experience Research & Interface Designing
+ </a></p><br>
+
+<h2 align="left">Projects</h2>
+
+<h2 align="left">Connect with Me</h2>
 <p>
- <strong>LinkedIn </strong>
+• <strong>LinkedIn </strong>
  <a href="https://www.linkedin.com/in/mansi-pande-483736253" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi pande" height="30" width="40" ></a></p>
 
 <p align="left">
-<strong>GitHub </strong>
+• <strong>GitHub </strong>
 <a href="https://github.com/pandeymansi" target="blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="30" width="40" >
 </a></p>
 
 <p align="left">
-<strong>LeetCode</strong>
+•<strong>LeetCode</strong>
 <a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
 </a></p>
 
-
+<h2 align="left">Feedback Welcome</h2>
+<p>
+I am still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above.
+</p>
 
 
 
