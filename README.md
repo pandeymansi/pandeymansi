@@ -82,6 +82,11 @@
 <p>
 • <strong>Password Generator:</strong> This simple Python script aims to help users enhance their online security by generating strong and secure passwords. By combining letters, symbols, and numbers in a random and shuffled manner, this project provides users with passwords that are difficult to guess or crack. 
 <a href="https://github.com/pandeymansi/Password_Generator">View Project</a>
+</p><br>
+
+<p>
+  • <strong>Hangman Game:</strong>This is a classic word-guessing game where players try to guess a hidden word by suggesting letters within a limited number of attempts. The game provides an engaging way to enhance vocabulary and spelling skills.
+  <a href="https://github.com/pandeymansi/Hangman_Project">View Project</a>
 </p>
 
 <h2 align="left">Connect with Me</h2>
