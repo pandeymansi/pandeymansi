@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Mansi Pande</h1>
 <h2 align="left">About Me</h2>
-<p>I’m a third-year Computer Science student blending Creativity with Coding. I've completed my second year with an aggregate CGPA of 8.80. Currently learning Web Development while diving into the world of Data Science. This README is my playground to showcase my Journey, Skills, and Aspiration.</p>
+<p>I’m a third-year Computer Science student blending Creativity with Coding. I've completed my second year with an aggregate CGPA of 8.80. Currently learning Web Development while diving into the world of Data Science. This README is my playground to showcase my Journey, Skills, and Aspiration.</p><br>
 
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
@@ -66,17 +66,27 @@
    </a>
   </p><br>
 
+  <p align="left">
+  • <strong>Competitive Programming:</strong>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
+    <a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">View Profile</a>
+</a>
+</p><br>
+
 <p align="left">
   • <strong>Data Structures & Algorithm:</strong> Structuring Information for efficiency
- </a></p><br>
+ </a>
+ </p><br>
 
  <p align="left">
    • <strong>Academic Coursework:</strong> Data Structures, Operating System (Windows, Linux), CN, OOP, DBMS
- </a></p><br>
+ </a>
+ </p><br>
 
 <p align="left">
   • <strong>Interests:</strong> Problem-Solving, Analysis, User Experience Research & Interface Designing
- </a></p><br>
+ </a>
+ </p><br>
 
 <h2 align="left">Projects</h2>
 <p>
@@ -85,9 +95,17 @@
 </p><br>
 
 <p>
-  • <strong>Hangman Game:</strong>This is a classic word-guessing game where players try to guess a hidden word by suggesting letters within a limited number of attempts. The game provides an engaging way to enhance vocabulary and spelling skills.
+  • <strong>Hangman Game:</strong> This is a classic word-guessing game where players try to guess a hidden word by suggesting letters within a limited number of attempts. The game provides an engaging way to enhance vocabulary and spelling skills.
   <a href="https://github.com/pandeymansi/Hangman_Project">View Project</a>
-</p>
+</p><br>
+
+<p>
+ • <strong>Predictive Modeling Projects:</strong> This repository highlights my internship projects, where I utilized Python for machine learning tasks, including:
+ Iris Flower Classification: Classifying iris species based on measurements.
+ Spam Mail Prediction: Identifying spam emails using NLP.
+ Unemployment Rate Prediction: Forecasting unemployment trends with regression models.
+  <a href="https://github.com/pandeymansi/OIBSIP-Oasis-Infobyte">View Project</a>
+</p><br>
 
 <h2 align="left">Connect with Me</h2>
 <p>
@@ -99,13 +117,7 @@
 • <strong>GitHub </strong>
 <a href="https://github.com/pandeymansi" target="blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="pandeymansi" height="30" width="40" >
-</a></p>
-
-<p align="left">
-• <strong>LeetCode</strong>
-<a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
-</a></p>
+</a></p><br>
 
 <h2 align="left">Feedback Welcome</h2>
 <p>
