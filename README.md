@@ -79,7 +79,7 @@
  </p><br>
 
  <p align="left">
-   • <strong>Academic Coursework:</strong> Data Structures, Operating System (Windows, Linux), CN, OOP, DBMS
+   • <strong>Academic Coursework:</strong> Data Structures, Operating System (Windows, Linux), CN, OOP (Python, Java), DBMS
  </a>
  </p><br>
 
