@@ -9,7 +9,7 @@
 <h2 align="left">Skills & Interests</h2>
 
 <p>
-  • <strong>Programming Languages:</strong> C, Python, Java, HTML, CSS
+  • <strong>Programming Languages:</strong> C, Python, Java, HTML, CSS, JavaScript
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a>
@@ -24,6 +24,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
+  </a>
+   <a href="https://www.w3school.com/javascript/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p><br>
 
@@ -108,8 +111,8 @@
 </p><br>
 
 <p>
-• <strong>Calculator:</strong> This calculator is a simple yet efficient command-line application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed for ease of use, it allows users to input expressions and get instant results.
-  <a href="https://github.com/pandeymansi/Simple_Python_Calculator">View Project</a>
+• <strong>Calculator:</strong> This is a simple graphical calculator built with Python's Tkinter library. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The user-friendly interface allows for easy input and instant results, making it accessible for everyone.
+  <a href="https://github.com/pandeymansi/Pyton_Tkinter_Calculator">View Project</a>
 </p><br>
 
 <h2 align="left">Connect with Me</h2>
