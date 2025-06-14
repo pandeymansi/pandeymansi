@@ -69,12 +69,12 @@
    </a>
   </p><br>
 
-  <p align="left">
+<!--  <p align="left">
   • <strong>Competitive Programming:</strong>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mansiprog6" height="30" width="40" />
     <a href="https://www.leetcode.com/mansiprog6" target="blank" rel="noreferrer">View Profile</a>
 </a>
-</p><br>
+</p><br> -->
 
 <p align="left">
   • <strong>Data Structures & Algorithm:</strong> Structuring Information for efficiency
