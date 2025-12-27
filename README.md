@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Mansi Pande</h1>
 <h2 align="left">About Me</h2>
-<p>I’m a third-year Computer Science student blending Creativity with Coding. I've completed my second year with an aggregate CGPA of 8.80. Currently learning Web Development while diving into the world of Data Science. This README is my playground to showcase my Journey, Skills, and Aspiration.</p><br>
+<p>I’m a Computer Science graduate blending Creativity with Coding. I've completed my undergraduation with an aggregate CGPA of 8.5. Currently learning Web Development while diving into the world of Data Science. This README is my playground to showcase my Journey, Skills, and Aspiration.</p><br>
 
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
