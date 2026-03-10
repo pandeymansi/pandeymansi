@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeymansi&label=Profile%20views&color=0e75b6&style=flat" alt="pandeymansi" /> </p>
 
-<h1 align="left">Hi, I'm Mansi Pande</h1>
+<h1 align="left">Hi, I'm Mansi</h1>
 <h2 align="left">About Me</h2>
 <p>I’m a Computer Science graduate blending Creativity with Coding. I've completed my undergraduation with an aggregate CGPA of 8.5. Currently learning Web Development while diving into the world of Data Science. This README is my playground to showcase my Journey, Skills, and Aspiration.</p><br>
 
